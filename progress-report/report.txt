@@ -1,0 +1,19 @@
+ Giai đoạn 1 (08/03 – 15/03)
+│   ├── Phân tích yêu cầu
+│   ├── Xác định chức năng
+│   └── Vẽ ERD
+│
+├── Giai đoạn 2 (16/03 – 25/03)
+│   ├── Thiết kế giao diện
+│   ├── Xây dựng cấu trúc MVC
+│   └── Tạo database
+│
+├── Giai đoạn 3 (26/03 – 15/04)
+│   ├── Xây dựng chức năng user
+│   ├── Xây dựng chức năng admin
+│   └── Kết nối Entity Framework
+│
+└── Giai đoạn 4 (16/04 – 26/04)
+    ├── Kiểm thử hệ thống
+    ├── Sửa lỗi
+    └── Hoàn thiện báo cáo
