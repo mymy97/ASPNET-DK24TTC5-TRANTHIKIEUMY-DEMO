@@ -1,0 +1,38 @@
+# Giai đoạn 1: Phân tích yêu cầu (08/03 – 15/03)
+- Xác định mục tiêu hệ thống: xây dựng website bán trà sữa
+- Xác định đối tượng sử dụng: khách hàng, admin
+- Phân tích chức năng chính (xem sản phẩm, đặt hàng…)
+- Thiết kế sơ bộ cơ sở dữ liệu, vẽ ERD
+ Kết quả:
+- Hoàn thành tài liệu phân tích
+- Có sơ đồ ERD
+
+# Giai đoạn 2: Thiết kế hệ thống (16/03 – 25/03)
+- Thiết kế giao diện website
+- Xây dựng cấu trúc ASP.NET Core MVC
+- Tạo database và các bảng
+- Tạo Models, Controllers, Views cơ bản
+Kết quả:
+- Hoàn thành khung hệ thống
+- Kết nối database thành công
+
+# Giai đoạn 3: Xây dựng chức năng (26/03 – 15/04)
+- Xây dựng chức năng người dùng:
+  + Xem sản phẩm
+  + Giỏ hàng
+  + Đặt hàng
+- Xây dựng chức năng admin:
+  + Quản lý sản phẩm
+  + Quản lý đơn hàng
+- Sử dụng Entity Framework để xử lý dữ liệu
+ Kết quả:
+- Website chạy được các chức năng chính
+
+# Giai đoạn 4: Hoàn thiện và kiểm thử (16/04 – 26/04)
+- Kiểm tra và sửa lỗi
+- Cải thiện giao diện
+- Tối ưu hệ thống
+- Hoàn thiện báo cáo + README GitHub
+ Kết quả:
+- Website hoàn chỉnh
+- Sẵn sàng demo và nộp bài
