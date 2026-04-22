@@ -25,7 +25,7 @@ Hệ thống cho phép người dùng xem sản phẩm, đặt hàng và quản 
 - Quản lý sản phẩm
 - Quản lý đơn hàng
 - Quản lý khách hàng
-- 
+ 
 # Cấu trúc project
 - Models: Chứa các lớp dữ liệu
 - Views: Giao diện người dùng
