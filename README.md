@@ -35,5 +35,6 @@ Hệ thống cho phép người dùng xem sản phẩm, đặt hàng và quản 
 * Cấu hình Database
 - Mở SQL Server
 - Mở file `.sln` bằng Visual Studio  
+- Chọn Web.config ( ghi chú Data Source= Server Name trên SQL)
 - Restore NuGet Packages  
 * Chạy project (F5 hoặc Ctrl + F5)
