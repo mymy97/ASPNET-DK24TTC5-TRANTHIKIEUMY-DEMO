@@ -1,6 +1,6 @@
 # Thông tin sinh viên
 Họ và tên: Trần Thị Kiều My
-MSSV: 170124521
+MSSV: 170124522
 Lớp: DK24TTC5
 # Đồ án: Website Bán Trà Sữa
 # Giới thiệu
